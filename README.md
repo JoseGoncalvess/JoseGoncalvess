@@ -17,6 +17,6 @@
 
 
 <div style='display: aline_block'>
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoseGoncalvess1212%2Fhit-counter"/>Pessoas passarampor aqui!
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoseGoncalvess1212%2Fhit-counter"/> Pessoas passaram por aqui!
 </div>
 
